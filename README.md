@@ -1,2 +1,1 @@
-# decagon_2015
-GIS presentation for Decagon Devices, Inc.
+My slides for talk at Decagon
