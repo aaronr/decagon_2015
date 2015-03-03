@@ -8,7 +8,7 @@
 <!-- Topic: Title slide -->
 
 <img style="max-height: 200px;" src="images/dwh_burning_cover.png">
-<h2>Goespatial "Show and Tell"</h2>
+<h3>Geospatial "Show and Tell"</h3>
 <p>
     <small>Aaron Racicot - <a href="mailto:aaronr@z-pulley.com">aaronr@z-pulley.com</a>
 <br>
