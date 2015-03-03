@@ -267,7 +267,6 @@ Gimbal
 --SLIDE--
 <!-- Topic: Why is this so interesting now ... -->
 
-Why is this so interesting now...
 <img style="max-height: 450px;" src="images/maps_fun.jpg">
 <br>
 <p>$$$$$ Cheap $$$$$</p>
