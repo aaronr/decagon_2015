@@ -121,7 +121,7 @@
 <ul>
   <li><strong>Less than 48 hours to deploy</strong></li>
   <li><strong>Scalable – 1400+ response users, 16,000+ layers (DWH)</strong></li>
-  <li><strong>30,000+ layers today</strong></li>
+  <li><strong>45,000+ layers today</strong></li>
   <li><strong>Nimble – over 850 code commits in DWH first year</strong></li>
   <li><strong>Public ERMA – over 20 million hits in 24 hours!</strong></li>
 </ul>
