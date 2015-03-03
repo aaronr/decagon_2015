@@ -445,6 +445,11 @@ Mesh
 <br>
 Print Prep
 
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/chris_building_print.jpg">
+<br>
+Print!
 
 <!------------------------------------------------------------>
 --SLIDE--
