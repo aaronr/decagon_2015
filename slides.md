@@ -338,6 +338,11 @@ https://www.mapbox.com/drone/no-fly/
 <br>
 Video taken with my rig...
 
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/palouse.jpg">
+
+
 <!------------------------------------------------------------>
 --SLIDE--
 <!-- Topic: Interesting workflows ... -->
