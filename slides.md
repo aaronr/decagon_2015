@@ -57,6 +57,46 @@
 
 <!------------------------------------------------------------>
 --SLIDE--
+<!-- Topic: Data -->
+
+<h2><b>Maps are layers</b></h2>
+<img src="images/layers.jpg" style="max-height: 500px;">
+
+--SUBSLIDE--
+
+<h1>Types of Data</h1>
+<h2><b>Raster</b> and <b>Vector</b></h2>
+
+--SUBSLIDE--
+
+<h2><b>Raster</b> - Images</h2>
+<img src="images/raster.png" style="max-height: 450px;">
+
+--SUBSLIDE--
+
+<h2>"Mega Pixels"</h2>
+<img src="images/school_px.jpg" style="max-height: 400px;">
+<h3>4608 X 3456 = 15,925,248</h3>
+<h3><b>16 million pixels!</b></h3>
+
+--SUBSLIDE--
+
+<h2><b>Vector</b> - Shapes</h2>
+<img src="images/vector.png" style="max-height: 450px;">
+
+--SUBSLIDE--
+
+<h2>Shapes, Shapes, Shapes</h2>
+<img src="images/shapes_shapes.jpg" style="max-height: 450px;">
+
+--SUBSLIDE--
+
+<h2>Combine to <b>make</b> maps!</h2>
+<img src="images/raster_vector.png" style="max-height: 450px;">
+
+
+<!------------------------------------------------------------>
+--SLIDE--
 <!-- Topic: ERMA intro -->
 
 <h2>The <span style="color:#ff0000;">Deepwater Horizon</span> experience</h2>
